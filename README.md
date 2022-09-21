@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine learning and Deep Learning**
 
-- 📫 How to reach me **jeetmohapatra98@gmail.com**
+- 📫 Reach me at **jeetmohapatra98@gmail.com**
 
 - ⚡ Fun fact **Every thing is a data when you are a Data Scientist.**
 
@@ -29,4 +29,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswa-mohapatra&show_icons=true&locale=en&layout=compact" alt="biswa-mohapatra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswa-mohapatra&" alt="biswa-mohapatra" /></p>
-
